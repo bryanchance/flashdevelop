@@ -1,9 +1,10 @@
 FlashDevelop
 ============
 
-FlashDevelop is a free and open source (MIT license) source code editor.
+Project has been discontinued and website is down.</b>
+--------
 
-[![FlashDevelop](http://flashdevelop.org/screenshots/fdstart-mini.png "FlashDevelop")](http://www.flashdevelop.org/)
+FlashDevelop is a free and open source (MIT license) source code editor.
 
 FlashDevelop offers first class support for Flash ActionScript (2 and 3) and [Haxe](https://haxe.org/) development: great and fast code completion & code generation, projects compilation & Flash debugging, plenty of project templates, SWF/SWC exploration, etc.
 
@@ -12,8 +13,8 @@ FlashDevelop is more generally a great web developer IDE with integrated source-
 Download
 --------
 
-* [Latest release](http://www.flashdevelop.org/community/viewforum.php?f=11)
-* [Latest builds](http://www.flashdevelop.org/community/viewtopic.php?f=9&t=3529)
+* [Official releases](/Releases/)
+* [Last builds](/Releases/Builds/)
 
 Platform
 --------
@@ -32,6 +33,4 @@ Building
 Contribute
 --------
 
-* Get forking and [join the community at FlashDevelop forums.](http://www.flashdevelop.org/community/index.php)
 * Read the contribution notes from [the CONTRIBUTING.md file.](https://github.com/fdorg/flashdevelop/blob/development/CONTRIBUTING.md)
-* Donate via PayPal: [details and list of donators.](http://www.flashdevelop.org/wikidocs/index.php?title=FlashDevelop:Site_support)
